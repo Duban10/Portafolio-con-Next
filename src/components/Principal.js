@@ -275,7 +275,7 @@ const Principal = () => {
                             <div className="sidebar-info">
 
                                 <figure className="avatar-box">
-                                <img src='/assets/images/PERFIL-12.png' alt="Duban Verjel" width="80" />
+                                <img src='/assets/images/perfil-redondeado.png' alt="Duban Verjel" width="80" />
                                 </figure>
 
                                 <div className="info-content">
