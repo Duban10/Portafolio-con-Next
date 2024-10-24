@@ -737,23 +737,40 @@ const Principal = () => {
                                 </div>
 
                                 <ul className="project-list">
-
                                     <li className="project-item  active" data-filter-item data-category="desarrollo web">
-                                    <a href="https://eclectic-treacle-02862a.netlify.app/" target="_blank">
+                                        <a href="https://eclectic-treacle-02862a.netlify.app/" target="_blank">
 
-                                        <figure className="project-img">
-                                        <div className="project-item-icon-box">
-                                            <ion-icon name="eye-outline"></ion-icon>
-                                        </div>
+                                            <figure className="project-img">
+                                            <div className="project-item-icon-box">
+                                                <ion-icon name="eye-outline"></ion-icon>
+                                            </div>
 
-                                        <img src='/assets/images/mangata-cafe.png' alt="Restaurante" loading="lazy" />
-                                        </figure>
+                                            <img src='/assets/images/mangata-cafe.png' alt="Restaurante" loading="lazy" />
+                                            </figure>
 
-                                        <h3 className="project-title">Restaurante</h3>
+                                            <h3 className="project-title">Restaurante</h3>
 
-                                        <p className="project-category">Desarrollo Web</p>
+                                            <p className="project-category">Desarrollo Web</p>
 
-                                    </a>
+                                        </a>
+                                    </li>
+
+                                    <li className="project-item active" data-filter-item data-category="desarrollo web">
+                                        <a href="https://calculadora-propinas1.netlify.app/" target="_blank">
+
+                                            <figure className="project-img">
+                                            <div className="project-item-icon-box">
+                                                <ion-icon name="eye-outline"></ion-icon>
+                                            </div>
+
+                                            <img src='/assets/images/propinas.png' alt="Image" loading="lazy" />
+                                            </figure>
+
+                                            <h3 className="project-title">Calculadora de propinas</h3>
+
+                                            <p className="project-category">Desarrollo Web</p>
+
+                                        </a>
                                     </li>
 
                                     <li className="project-item  active" data-filter-item data-category="desarrollo web" >
