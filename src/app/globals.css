@@ -2093,4 +2093,7 @@ body {
     filter: none;
     -webkit-filter: none;
   }
+  .filter-select{
+    display: none;
+  }
 }
